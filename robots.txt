@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://concurseiro.ninja/sitemap.xml
+Sitemap: https://misty-queen-4890.on.fleek.co/sitemap.xml

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Concurseiro Ninja</title>
-    <link href="http://concurseiro.ninja/feed.xml" rel="self" />
-    <link href="http://concurseiro.ninja" />
+    <link href="https://misty-queen-4890.on.fleek.co/feed.xml" rel="self" />
+    <link href="https://misty-queen-4890.on.fleek.co" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>kmromanovski</name>
     </author>
-    <id>http://concurseiro.ninja</id>
+    <id>https://misty-queen-4890.on.fleek.co</id>
 
 </feed>
